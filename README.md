@@ -2,6 +2,7 @@
 
 ### [0.01-alpha] roadmap
 - [ ]  Add seasons (Spring, Summer, Fall, Winter)
+- [ ]  Add dev tools to help develop visuals of each season.
 - [ ]  Add configuration for each season (the length in terraria days)
 - [ ]  Add season arrival custom message
 - Add custom visuals for:
@@ -22,7 +23,7 @@
       - [ ] Fall
       - [ ] Winter
 
-### [0.04-alpha]
+### [0.05-alpha]
 -   Add weathers:
     -   Snowing (in winter)
     -   Foggy (tbd.)

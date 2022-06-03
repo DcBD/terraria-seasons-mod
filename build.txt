@@ -1,0 +1,3 @@
+displayName = Seasons mod
+author = DcBD
+version = 0.1

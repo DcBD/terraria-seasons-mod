@@ -11,21 +11,21 @@ using Microsoft.Xna.Framework;
 
 namespace Seasons.Common.Players
 {
-	public class SeasonsPlayer : ModPlayer
-	{
+    public class SeasonsPlayer : ModPlayer
+    {
 
         public override void PostUpdate()
         {
             //Filters.Scene.Activate("WaterDistortion", default(Vector2));
-            this.Player.ManageSpecialBiomeVisuals($"{Seasons.ModName}:Spring", true);
+            this.Player.ManageSpecialBiomeVisuals($"{SeasonsMod.ModName}:Spring", true);
             //this.Player.ManageSpecialBiomeVisuals("Solar", true);
             //Player.ManageSpecialBiomeVisuals("ABCD", true);
         }
 
         public override void Load()
         {
-           
-          
+
+
         }
 
 
@@ -41,7 +41,7 @@ namespace Seasons.Common.Players
         //    //this.Player.ManageSpecialBiomeVisuals($"{Seasons.ModName}:Spring", true, this.Player.position);
         //}
 
-       
+
 
         //public override void UpdateBiomeVisuals()
         //{

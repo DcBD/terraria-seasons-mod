@@ -25,7 +25,12 @@
       "ProjectGuid": "9548a437-94fd-4af5-88ed-377c17bdf95c",
       "DisplayName": "Seasons",
       "ColorIndex": 3
+    },
+    "b1ea7db4-3cc7-4f15-8ec5-f5ce6d7d9749": {
+      "ProjectGuid": "b1ea7db4-3cc7-4f15-8ec5-f5ce6d7d9749",
+      "DisplayName": "Seasons",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

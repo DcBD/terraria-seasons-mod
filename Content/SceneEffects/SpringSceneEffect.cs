@@ -36,7 +36,7 @@ namespace Seasons.Content.SceneEffects
                 foreach (var pass in Main.ScreenShaderRef.Value.CurrentTechnique.Passes)
                 {
 
-                    Seasons.PublicLogger.InfoFormat(pass.Name);
+                    //SeasonsMod.PublicLogger.InfoFormat(pass.Name);
                 }
 
             }
